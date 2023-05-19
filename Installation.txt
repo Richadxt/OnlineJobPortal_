@@ -1,0 +1,19 @@
+1. Create a database on your server
+3. Update your server settings on 'constants/db_config.php'
+
+---------------------------------------------------------------
+Open link:
+localhost/OnlineJobPortal/System
+
+Employer1: abc@meta.com
+Password: 12345678
+
+Employer2: bca@adobe.com
+Password:  12345678
+
+Employee1: khushi@gmail.com
+Password: 12345678
+
+Employee2: richadixit@gmail.com
+Password: 12345678
+
