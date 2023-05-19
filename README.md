@@ -37,6 +37,8 @@ This website has two users:
   
   * Can apply in any job openings which they like
   
+  * can download thier resume
+  
   
 2. Employers:
 
@@ -48,6 +50,8 @@ This website has two users:
   
   * Can manage job postings and applicant pool
   
+  
+  3. Video Calling(Meet)
 
   ## Technologies
   * HTML
