@@ -67,21 +67,21 @@ This website has two users:
  
   <h3>HOME PAGE </h3>
 
- <img src="1.jpeg">
+ ![1](https://github.com/Richadxt/OnlineJobPortal_/assets/96220521/0e52efaa-40be-4d9d-8191-8e7d6dfcaab1)
 
  </div>
 
 
 <div>
   
- <img src="2.jpeg">
+ ![2](https://github.com/Richadxt/OnlineJobPortal_/assets/96220521/cfb89ca4-8f96-42be-96f4-7f2ec281e0ea)
  
  </div>
  
 
 <div>
  
- <img src="3.jpeg">
+ ![3](https://github.com/Richadxt/OnlineJobPortal_/assets/96220521/4aab6225-8ec3-4278-ba3d-c444c0cd281f)
  
  </div>
  
@@ -89,7 +89,7 @@ This website has two users:
  
   <h3>job list </h3>
 
- <img src="4.jpeg">
+ ![4](https://github.com/Richadxt/OnlineJobPortal_/assets/96220521/47c570b3-7af0-4ec7-a381-51886f4df159)
 
  </div>
  
@@ -97,7 +97,7 @@ This website has two users:
  
   <h3> employers </h3>
 
- <img src="5.jpeg">
+ ![5](https://github.com/Richadxt/OnlineJobPortal_/assets/96220521/60fecc23-df6a-4fac-a062-6961092ea98f)
 
  </div>
 
@@ -105,14 +105,14 @@ This website has two users:
   
  <h3> employees </h3>
  
- <img src="6.jpeg">
+ ![6](https://github.com/Richadxt/OnlineJobPortal_/assets/96220521/2cf2223a-2bb5-432b-86f9-3790b7078824)
  
  </div>
  
   
  <h3> contact us </h3>
  
- <img src="7.jpeg">
+  ![7](https://github.com/Richadxt/OnlineJobPortal_/assets/96220521/58d8b8aa-28cc-49b6-9554-d5a0d595a398)
  
  </div>
  
@@ -121,7 +121,8 @@ This website has two users:
  
   <h3> video call </h3>
   
- <img src="8.jpeg">
+ ![8](https://github.com/Richadxt/OnlineJobPortal_/assets/96220521/86c5ebdb-db7c-43fb-bdb4-0f59f162b8b0)
+
  
  </div>
  
@@ -129,7 +130,7 @@ This website has two users:
  
   <h3> Log in </h3>
   
- <img src="9.jpeg">
+ ![9](https://github.com/Richadxt/OnlineJobPortal_/assets/96220521/44b5160e-d61e-4229-b025-d39ab7abc73a)
  
  </div>
  
@@ -137,7 +138,7 @@ This website has two users:
  
   <h3> Register </h3>
   
- <img src="10.jpeg">
+ ![10](https://github.com/Richadxt/OnlineJobPortal_/assets/96220521/7b119158-9274-4792-ae82-474ae1346d9b)
  
  </div>
  
