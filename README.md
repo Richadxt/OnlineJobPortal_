@@ -105,7 +105,8 @@ This website has two users:
   
  <h3> employees </h3>
  
- ![6](https://github.com/Richadxt/OnlineJobPortal_/assets/96220521/2cf2223a-2bb5-432b-86f9-3790b7078824)
+ ![6_](https://github.com/Richadxt/OnlineJobPortal_/assets/96220521/c711b906-7940-4ca8-8839-d653fd59ebfe)
+
  
  </div>
  
